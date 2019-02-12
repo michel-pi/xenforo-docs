@@ -1,0 +1,25 @@
+var class_xen_foro___controller_admin___option =
+[
+    [ "_assertOptionOrGroupDefinitionEditable", "d0/d08/class_xen_foro___controller_admin___option.html#aa861e551c20bd92ab3de95ce00874076", null ],
+    [ "_getAddOnModel", "d0/d08/class_xen_foro___controller_admin___option.html#a751a7e3e6db5d8d6261f8b618198dfe4", null ],
+    [ "_getGroupAddEditResponse", "d0/d08/class_xen_foro___controller_admin___option.html#a24a7199a898b5b76f103d41b9d16ae8a", null ],
+    [ "_getOptionAddEditResponse", "d0/d08/class_xen_foro___controller_admin___option.html#a7d16ac1ce2a0705375fff2aa0b36b7b4", null ],
+    [ "_getOptionGroupOrError", "d0/d08/class_xen_foro___controller_admin___option.html#a600f652ae7555e172e6150ed9a49ecac", null ],
+    [ "_getOptionModel", "d0/d08/class_xen_foro___controller_admin___option.html#ae19f30af7864d728c1237b45847c64a6", null ],
+    [ "_getOptionOrError", "d0/d08/class_xen_foro___controller_admin___option.html#a810090f9f257b974e810267798d601e6", null ],
+    [ "_preDispatch", "d0/d08/class_xen_foro___controller_admin___option.html#a312de32c81a3afab918dcab0a29c1f90", null ],
+    [ "actionAddGroup", "d0/d08/class_xen_foro___controller_admin___option.html#a535bb0342785108b9471695f53b5676f", null ],
+    [ "actionAddOption", "d0/d08/class_xen_foro___controller_admin___option.html#a05c02454cb11e7880f10109c247537b7", null ],
+    [ "actionDeleteGroup", "d0/d08/class_xen_foro___controller_admin___option.html#a7031be8c5c036aa54cd9bfd6d309acce", null ],
+    [ "actionDeleteOption", "d0/d08/class_xen_foro___controller_admin___option.html#a9f7de1c2de09111f6c170206efc203fc", null ],
+    [ "actionDisplayOrder", "d0/d08/class_xen_foro___controller_admin___option.html#a7d912feedb05ee256429aab9f768ce60", null ],
+    [ "actionEditGroup", "d0/d08/class_xen_foro___controller_admin___option.html#a777346251f58da1a192414b1dbf99a9b", null ],
+    [ "actionEditOption", "d0/d08/class_xen_foro___controller_admin___option.html#a604e19c2553157b6dcc0c2481e4a592b", null ],
+    [ "actionGroupDisplayOrder", "d0/d08/class_xen_foro___controller_admin___option.html#a96ea564c8a6e6c7f7145f73df8a588fa", null ],
+    [ "actionIndex", "d0/d08/class_xen_foro___controller_admin___option.html#ae955b1cdd5f2adcae90f9e744d8cc7a6", null ],
+    [ "actionList", "d0/d08/class_xen_foro___controller_admin___option.html#adda9a51acc7bafd0d166da9b10309b44", null ],
+    [ "actionSave", "d0/d08/class_xen_foro___controller_admin___option.html#a4a72ab259ee71461621de00ce4e80af3", null ],
+    [ "actionSaveGroup", "d0/d08/class_xen_foro___controller_admin___option.html#a1c03ef0bb47c3a2610970ef2285c8341", null ],
+    [ "actionSaveOption", "d0/d08/class_xen_foro___controller_admin___option.html#a183e40f57a131aa99b4b27419504f785", null ],
+    [ "actionViewOption", "d0/d08/class_xen_foro___controller_admin___option.html#ac739d363c6fbc3f85912b6df7aa2a0b1", null ]
+];

@@ -1,0 +1,26 @@
+var class_xen_foro___data_writer___option =
+[
+    [ "_getDefaultOptions", "dc/de6/class_xen_foro___data_writer___option.html#afd24bfd81a1649e3373db956f63d5ed8", null ],
+    [ "_getExistingData", "dc/de6/class_xen_foro___data_writer___option.html#a0b13133231366d06747b0074fce93e4b", null ],
+    [ "_getExplainPhraseName", "dc/de6/class_xen_foro___data_writer___option.html#a14e0a9d4ad6a5ab107b40514cc833758", null ],
+    [ "_getFields", "dc/de6/class_xen_foro___data_writer___option.html#a0c89f743e9faa89ae52b3219068be35b", null ],
+    [ "_getOptionModel", "dc/de6/class_xen_foro___data_writer___option.html#ae19f30af7864d728c1237b45847c64a6", null ],
+    [ "_getTitlePhraseName", "dc/de6/class_xen_foro___data_writer___option.html#a3d166f67a428ac65df064556e49c727e", null ],
+    [ "_getUpdateCondition", "dc/de6/class_xen_foro___data_writer___option.html#a411afb754496bf3d336e9d9decb21773", null ],
+    [ "_postDelete", "dc/de6/class_xen_foro___data_writer___option.html#a3d94a578d0f92220c96305ec317763bc", null ],
+    [ "_postSave", "dc/de6/class_xen_foro___data_writer___option.html#af131bc240ff72192385c60c33c992744", null ],
+    [ "_preSave", "dc/de6/class_xen_foro___data_writer___option.html#afe23830269d783eebc97de635fdebd10", null ],
+    [ "_rebuildOptionCache", "dc/de6/class_xen_foro___data_writer___option.html#a03e82328b378012dd5191af1d274a53b", null ],
+    [ "_updateRelatedGroupList", "dc/de6/class_xen_foro___data_writer___option.html#a9c9d0cc71d023173f2123e228880fef1", null ],
+    [ "_validateDataTypeForEditFormat", "dc/de6/class_xen_foro___data_writer___option.html#a34d31c9db155282257753b51bdd8777c", null ],
+    [ "_validateOptionValuePreSave", "dc/de6/class_xen_foro___data_writer___option.html#a406bffebcae415993334a8898491cf81", null ],
+    [ "_validateValidationClassAndMethod", "dc/de6/class_xen_foro___data_writer___option.html#aa2a769a0b00ca10f58592197ad534be7", null ],
+    [ "_verifyOptionId", "dc/de6/class_xen_foro___data_writer___option.html#a6e9b053f3837701cd5ed321225b742e1", null ],
+    [ "setRelations", "dc/de6/class_xen_foro___data_writer___option.html#a260f46c3f6485d3fcb1a8a3791d48db5", null ],
+    [ "$_existingDataErrorPhrase", "dc/de6/class_xen_foro___data_writer___option.html#a1995333114a9cda1650b7f8b2a020eb7", null ],
+    [ "$_relations", "dc/de6/class_xen_foro___data_writer___option.html#a76ad7cb1c9591d6c4dab084acf718a25", null ],
+    [ "DATA_EXPLAIN", "dc/de6/class_xen_foro___data_writer___option.html#a332c330888a7601b98ecfc3c76cb71d2", null ],
+    [ "DATA_TITLE", "dc/de6/class_xen_foro___data_writer___option.html#a0c2d5a24106064992116db46d4161b41", null ],
+    [ "OPTION_REBUILD_CACHE", "dc/de6/class_xen_foro___data_writer___option.html#a6affca4d2f81851e2c9c84055dfee7aa", null ],
+    [ "OPTION_VALIDATE_VALUE", "dc/de6/class_xen_foro___data_writer___option.html#ab733a30122e5a9eded88a9d04cead4c7", null ]
+];

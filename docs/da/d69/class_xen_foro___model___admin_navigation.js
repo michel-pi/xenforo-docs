@@ -1,0 +1,28 @@
+var class_xen_foro___model___admin_navigation =
+[
+    [ "_getPhraseModel", "da/d69/class_xen_foro___model___admin_navigation.html#a7cc6ae3a626fc502f153a97687793ddc", null ],
+    [ "appendAdminNavigationAddOnXml", "da/d69/class_xen_foro___model___admin_navigation.html#a38b10ea494bd155d88a22a152368073d", null ],
+    [ "deleteAdminNavigationForAddOn", "da/d69/class_xen_foro___model___admin_navigation.html#a229bcf5e92ddd2b774dd3531f7edad06", null ],
+    [ "filterUnviewableAdminNavigation", "da/d69/class_xen_foro___model___admin_navigation.html#aaaf2d2c6d4584eed7e1cc7935b648e31", null ],
+    [ "getAdminNavigationBreadCrumb", "da/d69/class_xen_foro___model___admin_navigation.html#a1d9e2f1dbc3cd67caf2de75d0198b706", null ],
+    [ "getAdminNavigationDevelopmentFileName", "da/d69/class_xen_foro___model___admin_navigation.html#ae7382bd88f8ba344e0a04b2c724cb56d", null ],
+    [ "getAdminNavigationDevelopmentXml", "da/d69/class_xen_foro___model___admin_navigation.html#af61bcd91d6fa101d0d5a1a3803957e46", null ],
+    [ "getAdminNavigationEntries", "da/d69/class_xen_foro___model___admin_navigation.html#a4e7e005f690226f3d2fbe1251eccee2c", null ],
+    [ "getAdminNavigationEntriesByIds", "da/d69/class_xen_foro___model___admin_navigation.html#ad4e9ca7f9df1a932f07fd33f3cbc1e71", null ],
+    [ "getAdminNavigationEntriesInAddOn", "da/d69/class_xen_foro___model___admin_navigation.html#a9340d588e75439d7f73f89b3c0456917", null ],
+    [ "getAdminNavigationEntriesWithParent", "da/d69/class_xen_foro___model___admin_navigation.html#a98cd3dd7f89130d5d7d78436c960707c", null ],
+    [ "getAdminNavigationEntryById", "da/d69/class_xen_foro___model___admin_navigation.html#a96fc815471a37bfc92b1aea4c57003b9", null ],
+    [ "getAdminNavigationForDisplay", "da/d69/class_xen_foro___model___admin_navigation.html#afdb2faba732851c71073aa58419a6458", null ],
+    [ "getAdminNavigationInOrder", "da/d69/class_xen_foro___model___admin_navigation.html#afe256284ae050527b2d7d1204269d528", null ],
+    [ "getAdminNavigationMasterTitlePhraseValue", "da/d69/class_xen_foro___model___admin_navigation.html#a9de28e5a403ae89003414f3e31d7990d", null ],
+    [ "getAdminNavigationOptions", "da/d69/class_xen_foro___model___admin_navigation.html#aaa100d33d092456abe4b5def31886269", null ],
+    [ "getAdminNavigationPhraseName", "da/d69/class_xen_foro___model___admin_navigation.html#abbaee1024f3b3644d9b20e59f75e70dd", null ],
+    [ "groupAdminNavigation", "da/d69/class_xen_foro___model___admin_navigation.html#adde6a8b9acf7ba8c89bcaa628c2659c1", null ],
+    [ "importAdminNavigationAddOnXml", "da/d69/class_xen_foro___model___admin_navigation.html#a36e57dd0f2fba1eb910dda6a8c1c7ffe", null ],
+    [ "importAdminNavigationDevelopmentXml", "da/d69/class_xen_foro___model___admin_navigation.html#aa5819306dfdc94f7551a703dc2877465", null ],
+    [ "isAdminNavigationEntryValidParent", "da/d69/class_xen_foro___model___admin_navigation.html#aaeea1d42f2219250ffd96fc9f6f8425f", null ],
+    [ "prepareAdminNavigationEntries", "da/d69/class_xen_foro___model___admin_navigation.html#a2ed134555cb82eed2f588c651f1692c1", null ],
+    [ "prepareAdminNavigationEntry", "da/d69/class_xen_foro___model___admin_navigation.html#acea8d092c4ec9aad9ee6c449d169d7b3", null ],
+    [ "prepareAdminNavigationFetchOptions", "da/d69/class_xen_foro___model___admin_navigation.html#abc3d4a503d01e56e4e324b81a2de92b2", null ],
+    [ "FETCH_ADDON", "da/d69/class_xen_foro___model___admin_navigation.html#adab598985b5a76d22f32db5860c3f98d", null ]
+];

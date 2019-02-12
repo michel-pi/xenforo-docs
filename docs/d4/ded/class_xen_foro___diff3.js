@@ -1,0 +1,25 @@
+var class_xen_foro___diff3 =
+[
+    [ "__construct", "d4/ded/class_xen_foro___diff3.html#a73f810c0658f8216fe4e879f13e1c386", null ],
+    [ "_appendMine", "d4/ded/class_xen_foro___diff3.html#a2cde329a2eaa8abb9ccba6cde8bdaaf0", null ],
+    [ "_appendOrig", "d4/ded/class_xen_foro___diff3.html#a300debf3df33a429469f21bdb7d1c740", null ],
+    [ "_appendYours", "d4/ded/class_xen_foro___diff3.html#a2953d56a174fc3ff1a64ec5943103b3f", null ],
+    [ "_finalize", "d4/ded/class_xen_foro___diff3.html#a5e2855e2d7935337876304a18cb650af", null ],
+    [ "_finishBlock", "d4/ded/class_xen_foro___diff3.html#aa8a0a08b356d02639338804bd7130272", null ],
+    [ "_getEndMatchLength", "d4/ded/class_xen_foro___diff3.html#a5873d68c0c08f4c9de1e98bc7b2846eb", null ],
+    [ "_getMatchLength", "d4/ded/class_xen_foro___diff3.html#a109fdf40d2aad90efb3642d6541b12c1", null ],
+    [ "_initBlock", "d4/ded/class_xen_foro___diff3.html#af801cfed123d1fa06822f7b303685b76", null ],
+    [ "findDifferences", "d4/ded/class_xen_foro___diff3.html#a1d3de0290d2a067ba2ef4aeacc395bc1", null ],
+    [ "mergeToFinal", "d4/ded/class_xen_foro___diff3.html#af2fadd1b66e1aae26b88e392fbe8cc88", null ],
+    [ "$_bigConflicts", "d4/ded/class_xen_foro___diff3.html#a53125382fd814811e39c9e6179841fa9", null ],
+    [ "$_comparer", "d4/ded/class_xen_foro___diff3.html#a74b26437267b3efc29166c3586baced6", null ],
+    [ "$_currentMine", "d4/ded/class_xen_foro___diff3.html#add8ad5e0de2938916f8499a844810cc6", null ],
+    [ "$_currentOrig", "d4/ded/class_xen_foro___diff3.html#acd94b6cf121ab488d448bb6f58f22274", null ],
+    [ "$_currentYours", "d4/ded/class_xen_foro___diff3.html#a4ca41a92aa7805005dfb3ab97274cec9", null ],
+    [ "BOTH", "d4/ded/class_xen_foro___diff3.html#a807aa8c34940fd59848a53ec8aa908f8", null ],
+    [ "CONFLICT", "d4/ded/class_xen_foro___diff3.html#a8a87df51a3daf456b445fd411eb21383", null ],
+    [ "EQUAL", "d4/ded/class_xen_foro___diff3.html#a847d311c31fe8f8d2454d580a35736cd", null ],
+    [ "MINE", "d4/ded/class_xen_foro___diff3.html#a3d39e8e5508ba46be6429b923a046f35", null ],
+    [ "UPDATE", "d4/ded/class_xen_foro___diff3.html#aacb6276ab2690c4071ba0b38714321bc", null ],
+    [ "YOURS", "d4/ded/class_xen_foro___diff3.html#a98e4d5d75fbdce9f2b553432f8140385", null ]
+];

@@ -1,0 +1,27 @@
+var class_xen_foro___data_writer___discussion___thread =
+[
+    [ "_deleteRedirects", "d0/d2b/class_xen_foro___data_writer___discussion___thread.html#aece09b63736dec64ab1d1d666f8a07d0", null ],
+    [ "_discussionPostDelete", "d0/d2b/class_xen_foro___data_writer___discussion___thread.html#aa49944f749fbe9fba0a7f61923a90f4e", null ],
+    [ "_discussionPostSave", "d0/d2b/class_xen_foro___data_writer___discussion___thread.html#a831f17b78e5564973049280696af93ed", null ],
+    [ "_discussionPreSave", "d0/d2b/class_xen_foro___data_writer___discussion___thread.html#af54cc6113e0eb30ff571333af2ec13a3", null ],
+    [ "_forumCountsMessages", "d0/d2b/class_xen_foro___data_writer___discussion___thread.html#af1727364f77f2bb4a8c3c5eab03b9e32", null ],
+    [ "_getExistingData", "d0/d2b/class_xen_foro___data_writer___discussion___thread.html#a0b13133231366d06747b0074fce93e4b", null ],
+    [ "_getFields", "d0/d2b/class_xen_foro___data_writer___discussion___thread.html#a0c89f743e9faa89ae52b3219068be35b", null ],
+    [ "_getForumData", "d0/d2b/class_xen_foro___data_writer___discussion___thread.html#a102ccac346d44fd5966414e642a244cb", null ],
+    [ "_getLastMessageInDiscussion", "d0/d2b/class_xen_foro___data_writer___discussion___thread.html#ac3e536ba7834a01b05dd53e06f7db105", null ],
+    [ "_getMessagesInDiscussionSimple", "d0/d2b/class_xen_foro___data_writer___discussion___thread.html#ab6076f2868fdb0e4459292895dcd4a7a", null ],
+    [ "_getPostModel", "d0/d2b/class_xen_foro___data_writer___discussion___thread.html#a7e150540c2ed05307f650e2f71e46363", null ],
+    [ "_getPrefixModel", "d0/d2b/class_xen_foro___data_writer___discussion___thread.html#addde69e0057c2b6cf66928a5b2656f74", null ],
+    [ "_getThreadModel", "d0/d2b/class_xen_foro___data_writer___discussion___thread.html#ae1ff1f02994ac13a9674805924ad2ada", null ],
+    [ "_handleForumMove", "d0/d2b/class_xen_foro___data_writer___discussion___thread.html#ad338ac7696c6b0dd66f8aa19a265c253", null ],
+    [ "_needsSearchIndexUpdate", "d0/d2b/class_xen_foro___data_writer___discussion___thread.html#a758015e71c7cdc5a4f2a34e5c8843d7a", null ],
+    [ "_postSaveAfterTransaction", "d0/d2b/class_xen_foro___data_writer___discussion___thread.html#aa8d47153d88b4d303ea627e41ebf4484", null ],
+    [ "_updateUserMessageCount", "d0/d2b/class_xen_foro___data_writer___discussion___thread.html#ab7e726f299f4b63d7d681a1b94743714", null ],
+    [ "getDiscussionDefinition", "d0/d2b/class_xen_foro___data_writer___discussion___thread.html#aa9e37582d48d38579a65541bdf3afec8", null ],
+    [ "getDiscussionMessageDefinition", "d0/d2b/class_xen_foro___data_writer___discussion___thread.html#aaffbb89ff2d8252f28b0dce00359f42a", null ],
+    [ "rebuildDiscussion", "d0/d2b/class_xen_foro___data_writer___discussion___thread.html#a6dad7f06b0cdd78feea7d79ac1c231e5", null ],
+    [ "rebuildDiscussionCounters", "d0/d2b/class_xen_foro___data_writer___discussion___thread.html#a123360afb87a439d441e9604b7bc041f", null ],
+    [ "setExtraData", "d0/d2b/class_xen_foro___data_writer___discussion___thread.html#a2105cf89b1885f9b2269bb560cb7bb9d", null ],
+    [ "$_supportTagging", "d0/d2b/class_xen_foro___data_writer___discussion___thread.html#a47563ea71158b61b7ebb49d882fd34bb", null ],
+    [ "DATA_FORUM", "d0/d2b/class_xen_foro___data_writer___discussion___thread.html#a34a00e725fca6020495e0e30fd006f6c", null ]
+];

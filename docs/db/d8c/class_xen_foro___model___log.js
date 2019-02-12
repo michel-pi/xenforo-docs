@@ -1,0 +1,28 @@
+var class_xen_foro___model___log =
+[
+    [ "_filterAdminLogRequestData", "db/d8c/class_xen_foro___model___log.html#aed8c6e490ee3c96d3390532818987b36", null ],
+    [ "clearServerErrorLog", "db/d8c/class_xen_foro___model___log.html#a61537a300593c8cba577302c3d9c19e2", null ],
+    [ "countAdminLogEntries", "db/d8c/class_xen_foro___model___log.html#af134d34f07264bb9356ff88cbc15dbd5", null ],
+    [ "countModeratorLogEntries", "db/d8c/class_xen_foro___model___log.html#a31017cfc34ad3d0b332508fdbd452350", null ],
+    [ "countServerErrors", "db/d8c/class_xen_foro___model___log.html#a1b47b2c2c0b8b0c62b81efb8488c08fb", null ],
+    [ "deleteServerErrorLog", "db/d8c/class_xen_foro___model___log.html#a034fa25ec9c5fe7fd5e64d1a63455ab1", null ],
+    [ "getAdminLogById", "db/d8c/class_xen_foro___model___log.html#a3f9365f47cafc8b99a3cb3dfeac50512", null ],
+    [ "getAdminLogEntries", "db/d8c/class_xen_foro___model___log.html#a46e9fa374f5b720af8b1f2ba9c50cdb5", null ],
+    [ "getModeratorLogById", "db/d8c/class_xen_foro___model___log.html#aea10e5ab05ff309a7555e0acc9b3bec4", null ],
+    [ "getModeratorLogEntries", "db/d8c/class_xen_foro___model___log.html#a26f20a21ea5521628bc00bc2da366435", null ],
+    [ "getModeratorLogForDiscussionContent", "db/d8c/class_xen_foro___model___log.html#a78fc308ae59515cfe1d573b80ebce79c", null ],
+    [ "getModeratorLogHandler", "db/d8c/class_xen_foro___model___log.html#ac21d18d57068725b8df744f46d151515", null ],
+    [ "getModeratorLogHandlers", "db/d8c/class_xen_foro___model___log.html#ac01fd95fe65835ec20b37557feb75e25", null ],
+    [ "getServerErrorLogById", "db/d8c/class_xen_foro___model___log.html#abc00b903d9b36f9fb4de2fc7d1acd939", null ],
+    [ "getServerErrorLogs", "db/d8c/class_xen_foro___model___log.html#a9cbf72c55dbb4defc96aa6544191c9f3", null ],
+    [ "getUsersWithAdminLogs", "db/d8c/class_xen_foro___model___log.html#ade0e45f12d71bb618d1020789892deb8", null ],
+    [ "getUsersWithModeratorLogs", "db/d8c/class_xen_foro___model___log.html#a15bebcbbb8ca93305a1b4a4af1df5de5", null ],
+    [ "logAdminRequest", "db/d8c/class_xen_foro___model___log.html#a5c5c69ac13c717df0ee3df2ba7a5d048", null ],
+    [ "logModeratorActionLocal", "db/d8c/class_xen_foro___model___log.html#af8958a5c5cf55e9e82ef2713a9bf409d", null ],
+    [ "prepareAdminLogEntries", "db/d8c/class_xen_foro___model___log.html#a18136c2797e076f4122a92d267d10388", null ],
+    [ "prepareAdminLogEntry", "db/d8c/class_xen_foro___model___log.html#a68498785db7d19a51efb44cee4d42e71", null ],
+    [ "prepareModeratorLogEntries", "db/d8c/class_xen_foro___model___log.html#a11aa82a2fa64579bbc1172b21f7c8865", null ],
+    [ "prepareModeratorLogEntry", "db/d8c/class_xen_foro___model___log.html#ab32a2f6051789b479428dd4289f0255a", null ],
+    [ "pruneAdminLogEntries", "db/d8c/class_xen_foro___model___log.html#abfae14aa224eea91ffb3c85f90a44f3a", null ],
+    [ "pruneModeratorLogEntries", "db/d8c/class_xen_foro___model___log.html#a02c2aa7229349da231050465b03b27ab", null ]
+];

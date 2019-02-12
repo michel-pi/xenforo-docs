@@ -1,0 +1,27 @@
+var class_xen_foro___model___news_feed =
+[
+    [ "_cacheHandlersForNewsFeed", "d6/d7c/class_xen_foro___model___news_feed.html#a93c634c77037168fed25073a427b4da9", null ],
+    [ "_getContentForNewsFeedItems", "d6/d7c/class_xen_foro___model___news_feed.html#a505d24d663c76db13c1cf6c15eca05b5", null ],
+    [ "_getNewsFeedHandlerForContent", "d6/d7c/class_xen_foro___model___news_feed.html#ac99dcc08f2417db806e7d05b2d082fc6", null ],
+    [ "_getNewsFeedHandlerFromCache", "d6/d7c/class_xen_foro___model___news_feed.html#ae73e7d6ebfc2c69c98b18c52fa5a8ae9", null ],
+    [ "_getUserModel", "d6/d7c/class_xen_foro___model___news_feed.html#a60c6bdf170a9f127318c62825b5a7c11", null ],
+    [ "_getViewableNewsFeedItems", "d6/d7c/class_xen_foro___model___news_feed.html#a5447137e083c8ee89937e1c2572af139", null ],
+    [ "_mergeLatestNewsFeedItemsWithCache", "d6/d7c/class_xen_foro___model___news_feed.html#a7b88780f515cfab2583f1a2920d13690", null ],
+    [ "_prepareNewsFeedItem", "d6/d7c/class_xen_foro___model___news_feed.html#a8b2a7d08d2b44f0204ab7cdf8db0cdd0", null ],
+    [ "_prepareNewsFeedItems", "d6/d7c/class_xen_foro___model___news_feed.html#af8f19750ca63e91a01e113bd97c16bff", null ],
+    [ "_saveCache", "d6/d7c/class_xen_foro___model___news_feed.html#af7646f49cb5a2483b29483006496a0b7", null ],
+    [ "delete", "d6/d7c/class_xen_foro___model___news_feed.html#a58ccb4f369c84f39be04ba4b8f145a4a", null ],
+    [ "deleteNewsFeedCache", "d6/d7c/class_xen_foro___model___news_feed.html#a9a136d8f4d99abd1b151f56ac800c17d", null ],
+    [ "deleteOldNewsFeedItems", "d6/d7c/class_xen_foro___model___news_feed.html#af1590418a5cec88d511df4af5d60fa1e", null ],
+    [ "fillOutNewsFeedItems", "d6/d7c/class_xen_foro___model___news_feed.html#aab22f14903882c52da292dabaff5a354", null ],
+    [ "getNewestNewsFeedIdFromArray", "d6/d7c/class_xen_foro___model___news_feed.html#add7f189e32873c0cd65c3e9320a010c2", null ],
+    [ "getNewsFeed", "d6/d7c/class_xen_foro___model___news_feed.html#a6ed04098233c77c86c96aecfa7bea72f", null ],
+    [ "getNewsFeedCache", "d6/d7c/class_xen_foro___model___news_feed.html#a4ee69ce06a5a3a8a9b5dc5b49b43bc7f", null ],
+    [ "getNewsFeedForUser", "d6/d7c/class_xen_foro___model___news_feed.html#aafe7b998973b23a9804648b14958669c", null ],
+    [ "getNewsFeedItemById", "d6/d7c/class_xen_foro___model___news_feed.html#a73eb1edd84de87899a8dcac197cbc3bc", null ],
+    [ "getNewsFeedItems", "d6/d7c/class_xen_foro___model___news_feed.html#ac63701bcb50b79ab6628e19f65257afc", null ],
+    [ "getNewsFeedItemsForUser", "d6/d7c/class_xen_foro___model___news_feed.html#ab90f146d0a102481d84c2c77adfee74c", null ],
+    [ "getOldestNewsFeedIdFromArray", "d6/d7c/class_xen_foro___model___news_feed.html#a5e6b08c5d23f2080a14b9fc0821ee870", null ],
+    [ "publish", "d6/d7c/class_xen_foro___model___news_feed.html#ae59cc0f57b06090c671a3925c74b9762", null ],
+    [ "$_handlerCache", "d6/d7c/class_xen_foro___model___news_feed.html#ae044f29030f1d27a9cf188de98f78ac0", null ]
+];

@@ -1,0 +1,28 @@
+var class_xen_foro___model___image_proxy =
+[
+    [ "_deleteFile", "d1/d09/class_xen_foro___model___image_proxy.html#af549fbdf30663d8beed95228e67d90cf", null ],
+    [ "_failedGetNextCheckDate", "d1/d09/class_xen_foro___model___image_proxy.html#a92a2757b9d350918da62387e9eba624f", null ],
+    [ "_fetchAndCacheImage", "d1/d09/class_xen_foro___model___image_proxy.html#ac86d51c16568f86346244c1cf5e6d315", null ],
+    [ "_fetchImageForProxy", "d1/d09/class_xen_foro___model___image_proxy.html#aead3f4400e91210b9d9db58d5b9c4392", null ],
+    [ "_getMaxConcurrentFetches", "d1/d09/class_xen_foro___model___image_proxy.html#aeef9586aa48dccdf36ece07fa68cd71f", null ],
+    [ "_requiresRefetch", "d1/d09/class_xen_foro___model___image_proxy.html#ae3c95a3aa26588969ff54fad995b5797", null ],
+    [ "canTriggerImageFetch", "d1/d09/class_xen_foro___model___image_proxy.html#a47a0cc4fb321871d729bec096edfb7d5", null ],
+    [ "countImageProxyItems", "d1/d09/class_xen_foro___model___image_proxy.html#a5d8c10279344cb53503c68298bd94c30", null ],
+    [ "getImage", "d1/d09/class_xen_foro___model___image_proxy.html#a3e6c19efec903b008e7d94bd3438726f", null ],
+    [ "getImageById", "d1/d09/class_xen_foro___model___image_proxy.html#a02edcc1df4fcbd0a6d42fe8a50f8b79b", null ],
+    [ "getImageByUrl", "d1/d09/class_xen_foro___model___image_proxy.html#a53776fcd735c8bd14e19a712b6fbb2bf", null ],
+    [ "getImagePath", "d1/d09/class_xen_foro___model___image_proxy.html#abfc1c99a7aee8358f2652e4957d61608", null ],
+    [ "getImageProxyLogs", "d1/d09/class_xen_foro___model___image_proxy.html#a3b30efdc7d8dc1096e00dfbf0b8a17bc", null ],
+    [ "getPlaceHolderImage", "d1/d09/class_xen_foro___model___image_proxy.html#a887c9a02753114144c01501a31bc6424", null ],
+    [ "getReferrersForImage", "d1/d09/class_xen_foro___model___image_proxy.html#a984d87e190abab96121d5f5252021397", null ],
+    [ "logImageReferrer", "d1/d09/class_xen_foro___model___image_proxy.html#a9ecb93c57be828ef1f578f469b928720", null ],
+    [ "logImageView", "d1/d09/class_xen_foro___model___image_proxy.html#a81764526b68b8209fa55066d2c769622", null ],
+    [ "prepareImage", "d1/d09/class_xen_foro___model___image_proxy.html#a6f2c3bf5cd3cffad61672c2057843fe5", null ],
+    [ "prepareImageProxyConditions", "d1/d09/class_xen_foro___model___image_proxy.html#aa283e73a413f7f693ee3042121c3da0b", null ],
+    [ "prepareImages", "d1/d09/class_xen_foro___model___image_proxy.html#a1650264528c10eb0a2d31c37b6ad73d9", null ],
+    [ "pruneImageCache", "d1/d09/class_xen_foro___model___image_proxy.html#ab7bd5b969949d1e5c439a271a320ad20", null ],
+    [ "pruneImageProxyLogs", "d1/d09/class_xen_foro___model___image_proxy.html#a21292704cd8a6652e7a450f54a99a4aa", null ],
+    [ "pruneImageReferrerLogs", "d1/d09/class_xen_foro___model___image_proxy.html#aca7ba5f14853504e29f1f35beae9c187", null ],
+    [ "refreshImageIfRequired", "d1/d09/class_xen_foro___model___image_proxy.html#aa0c4b39832fee620b207205ff43510e9", null ],
+    [ "testImageProxyFetch", "d1/d09/class_xen_foro___model___image_proxy.html#ad64eba8949bb407347abf43bb86652cb", null ]
+];

@@ -1,0 +1,25 @@
+var class_xen_foro___model___banning =
+[
+    [ "_getIpRecord", "db/d86/class_xen_foro___model___banning.html#a69004cf26a7a77ddfc74a48850cace48", null ],
+    [ "banEmail", "db/d86/class_xen_foro___model___banning.html#a3e9b024d539976cb3923fcc99781c614", null ],
+    [ "banIp", "db/d86/class_xen_foro___model___banning.html#abe3b022e57d1059e89c66e64f8311eab", null ],
+    [ "countBannedEmails", "db/d86/class_xen_foro___model___banning.html#a89e7093db54688f1b44d902603710183", null ],
+    [ "countBannedIps", "db/d86/class_xen_foro___model___banning.html#ab776cdb3d42b2cc1af0c939a9933342e", null ],
+    [ "countBannedUsers", "db/d86/class_xen_foro___model___banning.html#a95542e550fdc39dc49200c91df36ce07", null ],
+    [ "countDiscouragedIps", "db/d86/class_xen_foro___model___banning.html#a82759f65825f91705a5843ef856e732f", null ],
+    [ "deleteBannedEmails", "db/d86/class_xen_foro___model___banning.html#ad914c38d30ee0178058f05216575dc40", null ],
+    [ "deleteBannedIps", "db/d86/class_xen_foro___model___banning.html#af688b668110e07e8b8933d291399ea4c", null ],
+    [ "deleteDiscouragedIps", "db/d86/class_xen_foro___model___banning.html#a04e2479a13289f664b41a1312a369110", null ],
+    [ "deleteExpiredUserBans", "db/d86/class_xen_foro___model___banning.html#a3576acd6cae75cc7dec4e2131d1519bb", null ],
+    [ "discourageIp", "db/d86/class_xen_foro___model___banning.html#a268de637f2a4b6d61e588abe62280ab8", null ],
+    [ "getBannedEmails", "db/d86/class_xen_foro___model___banning.html#a17f08ae0d878743ef7a107134b9f128e", null ],
+    [ "getBannedIps", "db/d86/class_xen_foro___model___banning.html#abe0eeaabd663f07b58371782d79f69b9", null ],
+    [ "getBannedUserById", "db/d86/class_xen_foro___model___banning.html#a759c6a05e1179f4adc33ba39af4e6090", null ],
+    [ "getBannedUsers", "db/d86/class_xen_foro___model___banning.html#a5072307506127bb79c8dabf926984a26", null ],
+    [ "getDiscouragedIps", "db/d86/class_xen_foro___model___banning.html#a6602872ee08b64538e4e1ed0d047c723", null ],
+    [ "getExpiredUserBans", "db/d86/class_xen_foro___model___banning.html#a438af0ef4e7fec54dc3da3a807933bc1", null ],
+    [ "prepareUserBanConditions", "db/d86/class_xen_foro___model___banning.html#ab13798c933eaa549c50e4efc3c701ca6", null ],
+    [ "rebuildBannedEmailCache", "db/d86/class_xen_foro___model___banning.html#a538a314f9c8d7ee591afcc10ab17dc39", null ],
+    [ "rebuildBannedIpCache", "db/d86/class_xen_foro___model___banning.html#ab3fe537501d41d9271745d3228823a2e", null ],
+    [ "rebuildDiscouragedIpCache", "db/d86/class_xen_foro___model___banning.html#a787522a3cecd135b5bb263075976d8da", null ]
+];

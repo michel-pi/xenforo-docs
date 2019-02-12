@@ -1,0 +1,27 @@
+var class_xen_foro___model___template_modification_abstract =
+[
+    [ "_addExtraToAddonXmlImportDw", "d7/d7e/class_xen_foro___model___template_modification_abstract.html#aec9872ba3cfdfeebcbd79f60d5f1d905", null ],
+    [ "_modifyAddOnXmlNode", "d7/d7e/class_xen_foro___model___template_modification_abstract.html#a8b845947f40072a5adf5eaaed0138c67", null ],
+    [ "appendModificationAddOnXml", "d7/d7e/class_xen_foro___model___template_modification_abstract.html#ab160582c004366841638d6400eef6ff9", null ],
+    [ "applyModificationsToTemplate", "d7/d7e/class_xen_foro___model___template_modification_abstract.html#a21080378f3e877e74ccca40b697d973a", null ],
+    [ "applyTemplateModifications", "d7/d7e/class_xen_foro___model___template_modification_abstract.html#af35905f8b2ca7c2306c6aaa2aa74a7df", null ],
+    [ "canEditModification", "d7/d7e/class_xen_foro___model___template_modification_abstract.html#a811ad1d3b2dcbad489b0a8e9d87b7088", null ],
+    [ "deleteModificationsForAddOn", "d7/d7e/class_xen_foro___model___template_modification_abstract.html#ad235c88240d5922375061a8a338d53d5", null ],
+    [ "getActiveModificationsForTemplate", "d7/d7e/class_xen_foro___model___template_modification_abstract.html#ad72e689a3e1b09b92091a2f982a75f68", null ],
+    [ "getAllModifications", "d7/d7e/class_xen_foro___model___template_modification_abstract.html#ae960f13282f2ad38821965def93cca86", null ],
+    [ "getModificationById", "d7/d7e/class_xen_foro___model___template_modification_abstract.html#a7325073c57c098565d9d74032af273fd", null ],
+    [ "getModificationByKey", "d7/d7e/class_xen_foro___model___template_modification_abstract.html#a30a39d84830cce80d02c8df3ed522681", null ],
+    [ "getModificationLogsForModification", "d7/d7e/class_xen_foro___model___template_modification_abstract.html#acf9e3ea6ccf047061e77276340f85096", null ],
+    [ "getModificationLogSummary", "d7/d7e/class_xen_foro___model___template_modification_abstract.html#af508468a45788149107001d69c682237", null ],
+    [ "getModificationsByAddOnId", "d7/d7e/class_xen_foro___model___template_modification_abstract.html#a01c06121db569bbe286eb9157cb92023", null ],
+    [ "getModificationsByKeys", "d7/d7e/class_xen_foro___model___template_modification_abstract.html#aa613c07984077cd791e55026ce8d8da6", null ],
+    [ "getModificationsForTemplate", "d7/d7e/class_xen_foro___model___template_modification_abstract.html#a129de685529a68f99087d26efe7d9e05", null ],
+    [ "getModificationTemplateTitlesForAddon", "d7/d7e/class_xen_foro___model___template_modification_abstract.html#ae38f077f3b835d6b7b871dc9e9ac0562", null ],
+    [ "groupModificationsByAddon", "d7/d7e/class_xen_foro___model___template_modification_abstract.html#abf4103f68864db6583847101e1e46217", null ],
+    [ "importModificationAddOnXml", "d7/d7e/class_xen_foro___model___template_modification_abstract.html#a4f9e08a5cbce3c99247da9610fdad83c", null ],
+    [ "onAddonActiveSwitch", "d7/d7e/class_xen_foro___model___template_modification_abstract.html#adb109a8d0937c3be411c889391f416c0", null ],
+    [ "updateTemplateModificationLog", "d7/d7e/class_xen_foro___model___template_modification_abstract.html#a20ef3bd41b6ddac9790de562153710ca", null ],
+    [ "$_dataWriterName", "d7/d7e/class_xen_foro___model___template_modification_abstract.html#a9cf90a544c22b8c7504164f3f0e527e2", null ],
+    [ "$_logTableName", "d7/d7e/class_xen_foro___model___template_modification_abstract.html#ae003722570f83b17a5bb7f4991ac70ad", null ],
+    [ "$_modTableName", "d7/d7e/class_xen_foro___model___template_modification_abstract.html#a44b3f540ea10531f1f899284550bbe5b", null ]
+];

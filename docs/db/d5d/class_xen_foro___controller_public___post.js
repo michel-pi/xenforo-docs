@@ -1,0 +1,25 @@
+var class_xen_foro___controller_public___post =
+[
+    [ "_assertCanDeletePost", "db/d5d/class_xen_foro___controller_public___post.html#a27deae9fdd8ef38025a407819eadd148", null ],
+    [ "_assertCanEditPost", "db/d5d/class_xen_foro___controller_public___post.html#a2ce470d1b5f80ce68ba50340217b47f9", null ],
+    [ "_getAttachmentModel", "db/d5d/class_xen_foro___controller_public___post.html#a704b82dce8295060f7ba345bfb89abe0", null ],
+    [ "_getLikeModel", "db/d5d/class_xen_foro___controller_public___post.html#ab026a547006c3d80b74fa8568a729346", null ],
+    [ "_getPostModel", "db/d5d/class_xen_foro___controller_public___post.html#a7e150540c2ed05307f650e2f71e46363", null ],
+    [ "_getSpamPreventionModel", "db/d5d/class_xen_foro___controller_public___post.html#a73ba20103e2e7f4e04554079aa986abf", null ],
+    [ "_getThreadWatchModel", "db/d5d/class_xen_foro___controller_public___post.html#a803393fae59eec8bc68eba02ade55fb9", null ],
+    [ "_setSilentEditOptions", "db/d5d/class_xen_foro___controller_public___post.html#aaa47b38d60eabb3456dac8e923ff609a", null ],
+    [ "actionDelete", "db/d5d/class_xen_foro___controller_public___post.html#aa080d8526eca7e0b6ba354380a4a7f81", null ],
+    [ "actionEdit", "db/d5d/class_xen_foro___controller_public___post.html#a99bc101ac5d9d8f404969a512f0b7f48", null ],
+    [ "actionEditInline", "db/d5d/class_xen_foro___controller_public___post.html#a013e73fe7861db9382b69c1aa187fdd5", null ],
+    [ "actionHistory", "db/d5d/class_xen_foro___controller_public___post.html#a283b30b542d37c124c896b750431d24d", null ],
+    [ "actionIndex", "db/d5d/class_xen_foro___controller_public___post.html#ae955b1cdd5f2adcae90f9e744d8cc7a6", null ],
+    [ "actionIp", "db/d5d/class_xen_foro___controller_public___post.html#a9a24b033aa653a52047e55d7d292bcd4", null ],
+    [ "actionLike", "db/d5d/class_xen_foro___controller_public___post.html#a8e0fd4296a9333c8d4a649e7a0db888b", null ],
+    [ "actionLikes", "db/d5d/class_xen_foro___controller_public___post.html#a2897b8ebbd3094afb22b3ac3e8cc20b8", null ],
+    [ "actionPermalink", "db/d5d/class_xen_foro___controller_public___post.html#a66e6c85cf7de169154c206ea7f8a643f", null ],
+    [ "actionQuote", "db/d5d/class_xen_foro___controller_public___post.html#a3e424d35423d7fc6faa660348e5d27d2", null ],
+    [ "actionReport", "db/d5d/class_xen_foro___controller_public___post.html#a7c905f0b73705cf369a24202c0076d13", null ],
+    [ "actionSave", "db/d5d/class_xen_foro___controller_public___post.html#a4a72ab259ee71461621de00ce4e80af3", null ],
+    [ "actionSaveInline", "db/d5d/class_xen_foro___controller_public___post.html#a1f30716cb42b37800bc5140d5f2ee56b", null ],
+    [ "getPostSpecificRedirect", "db/d5d/class_xen_foro___controller_public___post.html#af73e48adfa18d5cac6d3b514c50fbb4d", null ]
+];
