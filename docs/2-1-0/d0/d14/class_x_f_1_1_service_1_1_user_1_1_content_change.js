@@ -1,0 +1,26 @@
+var class_x_f_1_1_service_1_1_user_1_1_content_change =
+[
+    [ "__construct", "d0/d14/class_x_f_1_1_service_1_1_user_1_1_content_change.html#afb2c48d05ee68af0e523a83151709048", null ],
+    [ "apply", "d0/d14/class_x_f_1_1_service_1_1_user_1_1_content_change.html#a6a15453cde840f5b256e143ee6993b0e", null ],
+    [ "getNewUserId", "d0/d14/class_x_f_1_1_service_1_1_user_1_1_content_change.html#aa3daa61ef89ce1783ba2394c6818d950", null ],
+    [ "getNewUserName", "d0/d14/class_x_f_1_1_service_1_1_user_1_1_content_change.html#aabb432517942fd25b7e66c36f552920d", null ],
+    [ "getOriginalUserId", "d0/d14/class_x_f_1_1_service_1_1_user_1_1_content_change.html#a29112ed7dc3de29fa7c3340c99ad2e6c", null ],
+    [ "getOriginalUserName", "d0/d14/class_x_f_1_1_service_1_1_user_1_1_content_change.html#aa3244a91e1034eac057040dc69ca80ca", null ],
+    [ "getSteps", "d0/d14/class_x_f_1_1_service_1_1_user_1_1_content_change.html#a3e8ccd7746032df6a89b5bb304913393", null ],
+    [ "setupForDelete", "d0/d14/class_x_f_1_1_service_1_1_user_1_1_content_change.html#a54b4b8d486e28578fe19680a7c5a2f6a", null ],
+    [ "setupForMerge", "d0/d14/class_x_f_1_1_service_1_1_user_1_1_content_change.html#a1a3f287ded2bebd945441920c49c458c", null ],
+    [ "setupForNameChange", "d0/d14/class_x_f_1_1_service_1_1_user_1_1_content_change.html#ad6a528e59450b173baa491a7d965fb9e", null ],
+    [ "setupRaw", "d0/d14/class_x_f_1_1_service_1_1_user_1_1_content_change.html#a5a152811dbce0e2393e3e99ef9437826", null ],
+    [ "stepApplyWarningGroupChanges", "d0/d14/class_x_f_1_1_service_1_1_user_1_1_content_change.html#a46342b77a4c310e13e83439cbfe707b9", null ],
+    [ "stepMergeThreadUserPost", "d0/d14/class_x_f_1_1_service_1_1_user_1_1_content_change.html#a13a916f88a174a40174cc322cd943051", null ],
+    [ "stepReassignContent", "d0/d14/class_x_f_1_1_service_1_1_user_1_1_content_change.html#a141ac9b55d622ea53b1fd68fb998ea98", null ],
+    [ "stepReassignSearchIndex", "d0/d14/class_x_f_1_1_service_1_1_user_1_1_content_change.html#ad5e041c0599b0c6815d1cd3307d508f9", null ],
+    [ "stepRebuildFinalCaches", "d0/d14/class_x_f_1_1_service_1_1_user_1_1_content_change.html#addf52686140dddf7593b06f9ac2ba1f8", null ],
+    [ "$newUserId", "d0/d14/class_x_f_1_1_service_1_1_user_1_1_content_change.html#a5cd5115a2bb619f09fcc585347bf2392", null ],
+    [ "$newUserName", "d0/d14/class_x_f_1_1_service_1_1_user_1_1_content_change.html#a29db510181a0dd336c99456604ecb220", null ],
+    [ "$originalUserId", "d0/d14/class_x_f_1_1_service_1_1_user_1_1_content_change.html#aeca75022845e79bc8db6bfff9d64ccd2", null ],
+    [ "$originalUserName", "d0/d14/class_x_f_1_1_service_1_1_user_1_1_content_change.html#a6da27fb56ae1ec3480ea2c67625a7e3e", null ],
+    [ "$steps", "d0/d14/class_x_f_1_1_service_1_1_user_1_1_content_change.html#ad7fe4ac38e764b49c2f8e01733ff5986", null ],
+    [ "$updates", "d0/d14/class_x_f_1_1_service_1_1_user_1_1_content_change.html#ae1137d4abf74238458bcf9f92b74f8bc", null ],
+    [ "MultiPartRunnerTrait", "d0/d14/class_x_f_1_1_service_1_1_user_1_1_content_change.html#a0d8e80f56e53d0dc19fa182780a1826a", null ]
+];

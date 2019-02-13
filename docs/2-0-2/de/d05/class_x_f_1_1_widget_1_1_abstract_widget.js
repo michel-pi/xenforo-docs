@@ -1,0 +1,27 @@
+var class_x_f_1_1_widget_1_1_abstract_widget =
+[
+    [ "__construct", "de/d05/class_x_f_1_1_widget_1_1_abstract_widget.html#af6a213128fdaad06fe12bbbdf708d18c", null ],
+    [ "app", "de/d05/class_x_f_1_1_widget_1_1_abstract_widget.html#a0b328204f1494443b4573c43d2bab29e", null ],
+    [ "db", "de/d05/class_x_f_1_1_widget_1_1_abstract_widget.html#abf2dfcff06cad1e6c249ddc4df4d0866", null ],
+    [ "em", "de/d05/class_x_f_1_1_widget_1_1_abstract_widget.html#a605ef153deddaa1caecd554de23b5d38", null ],
+    [ "finder", "de/d05/class_x_f_1_1_widget_1_1_abstract_widget.html#a95ebeb96f86d6e9d8351342a5da48d71", null ],
+    [ "findOne", "de/d05/class_x_f_1_1_widget_1_1_abstract_widget.html#a127196dc527314609f441b3b9e45eecd", null ],
+    [ "getDefaultTemplateParams", "de/d05/class_x_f_1_1_widget_1_1_abstract_widget.html#a0cc4c26f0fd102b34df7883a5fef40d7", null ],
+    [ "getDefaultTitle", "de/d05/class_x_f_1_1_widget_1_1_abstract_widget.html#ad77d8405f5159828a7b3981d57d08d4b", null ],
+    [ "getOptionsTemplate", "de/d05/class_x_f_1_1_widget_1_1_abstract_widget.html#a57d65234d24f43d940b357bcef43150e", null ],
+    [ "getTitle", "de/d05/class_x_f_1_1_widget_1_1_abstract_widget.html#a95e859a4588a39a1824b717378a84c29", null ],
+    [ "getWidgetConfig", "de/d05/class_x_f_1_1_widget_1_1_abstract_widget.html#a6bcd9b87b735043e86fc618312b87b1a", null ],
+    [ "postDelete", "de/d05/class_x_f_1_1_widget_1_1_abstract_widget.html#a345b8217ff0a89d692e900b26dd36d29", null ],
+    [ "render", "de/d05/class_x_f_1_1_widget_1_1_abstract_widget.html#afde88292c44dc59faf017738dae6dffb", null ],
+    [ "renderer", "de/d05/class_x_f_1_1_widget_1_1_abstract_widget.html#a7907b2eb1112cb3b5d19055f6be4ae12", null ],
+    [ "renderOptions", "de/d05/class_x_f_1_1_widget_1_1_abstract_widget.html#a2e7692cc3267ae5ad3520c6a1c2cc39e", null ],
+    [ "repository", "de/d05/class_x_f_1_1_widget_1_1_abstract_widget.html#a993f3c3006fbc9059514925e3b1392b5", null ],
+    [ "service", "de/d05/class_x_f_1_1_widget_1_1_abstract_widget.html#a1c988e7d015fb0d8dca08d6d02d67651", null ],
+    [ "setupOptions", "de/d05/class_x_f_1_1_widget_1_1_abstract_widget.html#a6f6e335db2783254fb3bb6b26eee6a5b", null ],
+    [ "verifyOptions", "de/d05/class_x_f_1_1_widget_1_1_abstract_widget.html#a02c361a7d80316c17685c22b76f89d6d", null ],
+    [ "$app", "de/d05/class_x_f_1_1_widget_1_1_abstract_widget.html#adfb117f244076aa9bc269269f7e57403", null ],
+    [ "$contextParams", "de/d05/class_x_f_1_1_widget_1_1_abstract_widget.html#a26376bec147935d9bd8b52e7dd005aa5", null ],
+    [ "$defaultOptions", "de/d05/class_x_f_1_1_widget_1_1_abstract_widget.html#a5b060dd94ee5476aa989c591f9aca43c", null ],
+    [ "$options", "de/d05/class_x_f_1_1_widget_1_1_abstract_widget.html#a011800c63ece4cbbfa77136a20607023", null ],
+    [ "$widgetConfig", "de/d05/class_x_f_1_1_widget_1_1_abstract_widget.html#a8123e2469203e3d045f216c8f0079287", null ]
+];

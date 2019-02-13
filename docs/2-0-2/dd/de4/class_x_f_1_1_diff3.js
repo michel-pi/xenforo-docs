@@ -1,0 +1,25 @@
+var class_x_f_1_1_diff3 =
+[
+    [ "__construct", "dd/de4/class_x_f_1_1_diff3.html#a6360f666c3a1123d633d3c5658ba4634", null ],
+    [ "appendMine", "dd/de4/class_x_f_1_1_diff3.html#ab89313cff16b00efa1b737da1b1c6f6c", null ],
+    [ "appendOrig", "dd/de4/class_x_f_1_1_diff3.html#a5d8945236bf486aa356ff1a9256930a3", null ],
+    [ "appendYours", "dd/de4/class_x_f_1_1_diff3.html#aa2af14c559f30a99cce344949bf9e0ca", null ],
+    [ "finalize", "dd/de4/class_x_f_1_1_diff3.html#a3eb851785fbbb1746ddfc8c610ade4f9", null ],
+    [ "findDifferences", "dd/de4/class_x_f_1_1_diff3.html#aaa8acf7f0716334cee485e069de3b29e", null ],
+    [ "finishBlock", "dd/de4/class_x_f_1_1_diff3.html#a5c861949cf3585af1af6b02c90ac1b24", null ],
+    [ "getEndMatchLength", "dd/de4/class_x_f_1_1_diff3.html#a1a81d23fc15c54ee74325f7f1a9a014f", null ],
+    [ "getMatchLength", "dd/de4/class_x_f_1_1_diff3.html#a1beedbd6cc5079602f73d82d1c06fcd8", null ],
+    [ "initBlock", "dd/de4/class_x_f_1_1_diff3.html#aa4822b2e7e8017e284db87aaea55d552", null ],
+    [ "mergeToFinal", "dd/de4/class_x_f_1_1_diff3.html#ad0444e7bf39eec5d6ce88178b5a72cb9", null ],
+    [ "$bigConflicts", "dd/de4/class_x_f_1_1_diff3.html#af943500b3ac0b1cecfbc3211e665a94a", null ],
+    [ "$comparer", "dd/de4/class_x_f_1_1_diff3.html#a647caa6aa858434cea1ae8204ec47182", null ],
+    [ "$currentMine", "dd/de4/class_x_f_1_1_diff3.html#ab5da4c33e7cfd26d35e02e9d3a5b1a8c", null ],
+    [ "$currentOrig", "dd/de4/class_x_f_1_1_diff3.html#ab5f10b33b7135526932fcdf67a3f21d1", null ],
+    [ "$currentYours", "dd/de4/class_x_f_1_1_diff3.html#aa6978ac3810ac3159b54c092c402d4fa", null ],
+    [ "BOTH", "dd/de4/class_x_f_1_1_diff3.html#a807aa8c34940fd59848a53ec8aa908f8", null ],
+    [ "CONFLICT", "dd/de4/class_x_f_1_1_diff3.html#a8a87df51a3daf456b445fd411eb21383", null ],
+    [ "EQUAL", "dd/de4/class_x_f_1_1_diff3.html#a847d311c31fe8f8d2454d580a35736cd", null ],
+    [ "MINE", "dd/de4/class_x_f_1_1_diff3.html#a3d39e8e5508ba46be6429b923a046f35", null ],
+    [ "UPDATE", "dd/de4/class_x_f_1_1_diff3.html#aacb6276ab2690c4071ba0b38714321bc", null ],
+    [ "YOURS", "dd/de4/class_x_f_1_1_diff3.html#a98e4d5d75fbdce9f2b553432f8140385", null ]
+];

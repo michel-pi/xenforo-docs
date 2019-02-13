@@ -1,0 +1,26 @@
+var class_x_f_1_1_db_1_1_mysqli_1_1_replication_adapter =
+[
+    [ "_rawQuery", "d9/d4f/class_x_f_1_1_db_1_1_mysqli_1_1_replication_adapter.html#a55e9bae1e8afc65f8d536f4c6fd46f17", null ],
+    [ "closeConnection", "d9/d4f/class_x_f_1_1_db_1_1_mysqli_1_1_replication_adapter.html#a2decfe3602a5b089088ffd97bb6e6841", null ],
+    [ "escapeString", "d9/d4f/class_x_f_1_1_db_1_1_mysqli_1_1_replication_adapter.html#afadf58dcf9a66f9bf52ee8d4a19db97b", null ],
+    [ "forceToWriteServer", "d9/d4f/class_x_f_1_1_db_1_1_mysqli_1_1_replication_adapter.html#a9c0c98c2c7acd06d2ff1292bed106d00", null ],
+    [ "getConnection", "d9/d4f/class_x_f_1_1_db_1_1_mysqli_1_1_replication_adapter.html#ab7a0a080d0e721c656eef11cd641638b", null ],
+    [ "getConnectionForQuery", "d9/d4f/class_x_f_1_1_db_1_1_mysqli_1_1_replication_adapter.html#aaa5920c628130d34548acc5051128e96", null ],
+    [ "getConnectionStats", "d9/d4f/class_x_f_1_1_db_1_1_mysqli_1_1_replication_adapter.html#a27ccdfcf320e82eacd5b661bc5a06ec0", null ],
+    [ "getDefaultTableConfig", "d9/d4f/class_x_f_1_1_db_1_1_mysqli_1_1_replication_adapter.html#a3263b33186bfbf9aabb472eb22bbf4f7", null ],
+    [ "getForceToWriteServerLength", "d9/d4f/class_x_f_1_1_db_1_1_mysqli_1_1_replication_adapter.html#ab98a7953cb67bbb5c1b2c67859f3a352", null ],
+    [ "getServerVersion", "d9/d4f/class_x_f_1_1_db_1_1_mysqli_1_1_replication_adapter.html#a2d047b148eb053baba2150cc7d5d9545", null ],
+    [ "getStatementClass", "d9/d4f/class_x_f_1_1_db_1_1_mysqli_1_1_replication_adapter.html#a12440eeb3047b9aaf1250d25dc517ad2", null ],
+    [ "getTypeConnection", "d9/d4f/class_x_f_1_1_db_1_1_mysqli_1_1_replication_adapter.html#af8e2ddec8d2931683e19050e82f4a836", null ],
+    [ "isConnected", "d9/d4f/class_x_f_1_1_db_1_1_mysqli_1_1_replication_adapter.html#af160f7fbbf281d018ae3162521b8267d", null ],
+    [ "isForcedToWriteServer", "d9/d4f/class_x_f_1_1_db_1_1_mysqli_1_1_replication_adapter.html#aed3a8445a500a41e7a2a516bd15076e1", null ],
+    [ "isForcedToWriteServerExplicit", "d9/d4f/class_x_f_1_1_db_1_1_mysqli_1_1_replication_adapter.html#ad9a9dff405687d737b85fea4945876eb", null ],
+    [ "lastInsertId", "d9/d4f/class_x_f_1_1_db_1_1_mysqli_1_1_replication_adapter.html#a6384591ddfa09e979deb8a695bca0f67", null ],
+    [ "makeConnection", "d9/d4f/class_x_f_1_1_db_1_1_mysqli_1_1_replication_adapter.html#a885b2446caa94d7d6558425bc1369c40", null ],
+    [ "ping", "d9/d4f/class_x_f_1_1_db_1_1_mysqli_1_1_replication_adapter.html#a6dad377f74b0ce6f21b485ba11052746", null ],
+    [ "standardizeConfig", "d9/d4f/class_x_f_1_1_db_1_1_mysqli_1_1_replication_adapter.html#a285dc7a4391b68fe38c401bbd16fdbfb", null ],
+    [ "$forceAllWrite", "d9/d4f/class_x_f_1_1_db_1_1_mysqli_1_1_replication_adapter.html#a5a71c949053ff0a769fb8ae6a19823ac", null ],
+    [ "$lastConnection", "d9/d4f/class_x_f_1_1_db_1_1_mysqli_1_1_replication_adapter.html#a6e63f0ba9ea5eca41ffff05ee32ff501", null ],
+    [ "$readConnection", "d9/d4f/class_x_f_1_1_db_1_1_mysqli_1_1_replication_adapter.html#aed75a88fddd9939e478f27e688fe6ee7", null ],
+    [ "$writeConnection", "d9/d4f/class_x_f_1_1_db_1_1_mysqli_1_1_replication_adapter.html#a38d7e9a155fd0fafe55ae50db6fcf8bf", null ]
+];

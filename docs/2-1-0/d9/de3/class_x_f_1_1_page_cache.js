@@ -1,0 +1,27 @@
+var class_x_f_1_1_page_cache =
+[
+    [ "__construct", "d9/de3/class_x_f_1_1_page_cache.html#af3d0d74c7c010ce9fb0047016ae4d1be", null ],
+    [ "generateCacheId", "d9/de3/class_x_f_1_1_page_cache.html#a171061e21a367617862ec4efcf4f2541", null ],
+    [ "getCacheId", "d9/de3/class_x_f_1_1_page_cache.html#a33b6ec12f934481bad7acbb577a8565d", null ],
+    [ "getLifetime", "d9/de3/class_x_f_1_1_page_cache.html#a930357223406998831db9912ebbd04f5", null ],
+    [ "getRecordSessionActivity", "d9/de3/class_x_f_1_1_page_cache.html#a810c6b11c88e12a268d57967a4b93c48", null ],
+    [ "getRequest", "d9/de3/class_x_f_1_1_page_cache.html#adf1a35ad20e475c59cc0967d5764aa22", null ],
+    [ "hasCacheId", "d9/de3/class_x_f_1_1_page_cache.html#a27cd86bf1cb974a063f34bb285421bab", null ],
+    [ "isDefinitelyGuest", "d9/de3/class_x_f_1_1_page_cache.html#a95d532f432a49ce5275e9b76b5a13c78", null ],
+    [ "isRequestCacheable", "d9/de3/class_x_f_1_1_page_cache.html#ad4532101d34b4e96298616097307f26d", null ],
+    [ "isResponseSaveable", "d9/de3/class_x_f_1_1_page_cache.html#ae9a244905b360b965424eb9eada96684", null ],
+    [ "routeMatchesPrefixes", "d9/de3/class_x_f_1_1_page_cache.html#a05969cbe5361e90068a9f18865ffb9ec", null ],
+    [ "saveToCache", "d9/de3/class_x_f_1_1_page_cache.html#aebafdc7a2f93e02c568ca64a1ca30f55", null ],
+    [ "setCacheIdGenerator", "d9/de3/class_x_f_1_1_page_cache.html#ae0a8ceea69290ab3fd6cc4f8c7c19edd", null ],
+    [ "setLifetime", "d9/de3/class_x_f_1_1_page_cache.html#af807236665cf678248cccf7e8543ed91", null ],
+    [ "setRecordSessionActivity", "d9/de3/class_x_f_1_1_page_cache.html#ad5900f352a40d6ece35e2cda83c5e987", null ],
+    [ "setSessionActivity", "d9/de3/class_x_f_1_1_page_cache.html#a968ebcf5e5be06f83f2de6aa522441a5", null ],
+    [ "$cache", "d9/de3/class_x_f_1_1_page_cache.html#ac2dc76d756ec398393d4b1d23659276c", null ],
+    [ "$cacheId", "d9/de3/class_x_f_1_1_page_cache.html#a5e21d1aa3a8234d2a84aa79d10339331", null ],
+    [ "$cacheIdGenerator", "d9/de3/class_x_f_1_1_page_cache.html#a34e1e84eff3c1d5cadaf2b7bcaba30d8", null ],
+    [ "$lifetime", "d9/de3/class_x_f_1_1_page_cache.html#a2900bc497d166ddabb5dd0141a5a7e73", null ],
+    [ "$recordSessionActivity", "d9/de3/class_x_f_1_1_page_cache.html#ac8a58a44ddfe9a9baf4a67538875c7db", null ],
+    [ "$request", "d9/de3/class_x_f_1_1_page_cache.html#abb35c8495a232b510389fa6d7b15d38a", null ],
+    [ "$sessionActivity", "d9/de3/class_x_f_1_1_page_cache.html#a198d651426a5ae287e3205bade3eea39", null ],
+    [ "CACHE_VERSION", "d9/de3/class_x_f_1_1_page_cache.html#aab0504a16f6a1ae27927e47374049868", null ]
+];

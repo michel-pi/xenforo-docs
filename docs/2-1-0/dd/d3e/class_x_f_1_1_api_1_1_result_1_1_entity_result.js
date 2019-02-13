@@ -1,0 +1,25 @@
+var class_x_f_1_1_api_1_1_result_1_1_entity_result =
+[
+    [ "__construct", "dd/d3e/class_x_f_1_1_api_1_1_result_1_1_entity_result.html#ae03f694d96a3d9f0e924db70e92ebb5c", null ],
+    [ "__set", "dd/d3e/class_x_f_1_1_api_1_1_result_1_1_entity_result.html#a117a6f755f4e7f783bde910aea204d9f", null ],
+    [ "addCallback", "dd/d3e/class_x_f_1_1_api_1_1_result_1_1_entity_result.html#acfaa03aa5c1dd9fb3a6bdf85b2f59cb9", null ],
+    [ "castToFinalValue", "dd/d3e/class_x_f_1_1_api_1_1_result_1_1_entity_result.html#a683c141c36819eb89a542af83132a70d", null ],
+    [ "getEntity", "dd/d3e/class_x_f_1_1_api_1_1_result_1_1_entity_result.html#a0848c661e55b6027e3794d16cad5d501", null ],
+    [ "includeColumn", "dd/d3e/class_x_f_1_1_api_1_1_result_1_1_entity_result.html#adb1b056d331d33da2fdfa0afd6899315", null ],
+    [ "includeExtra", "dd/d3e/class_x_f_1_1_api_1_1_result_1_1_entity_result.html#aca61cb8c18ea9982b57a08a55eacf021", null ],
+    [ "includeGetter", "dd/d3e/class_x_f_1_1_api_1_1_result_1_1_entity_result.html#aba4eeb4f73be9e341bf8314bf6009502", null ],
+    [ "includeRelation", "dd/d3e/class_x_f_1_1_api_1_1_result_1_1_entity_result.html#a018f2e16a729e578edc9f98e3393ad05", null ],
+    [ "isColumnIncluded", "dd/d3e/class_x_f_1_1_api_1_1_result_1_1_entity_result.html#afb6386019b63c23ce54171927f476d0f", null ],
+    [ "isRelationIncluded", "dd/d3e/class_x_f_1_1_api_1_1_result_1_1_entity_result.html#aa6a7b2103eb229e57a8eeccd5facb5e8", null ],
+    [ "render", "dd/d3e/class_x_f_1_1_api_1_1_result_1_1_entity_result.html#afde88292c44dc59faf017738dae6dffb", null ],
+    [ "skipColumn", "dd/d3e/class_x_f_1_1_api_1_1_result_1_1_entity_result.html#a7ce2a17145bd9f6fc4ce09673269bbf1", null ],
+    [ "skipRelation", "dd/d3e/class_x_f_1_1_api_1_1_result_1_1_entity_result.html#a5b9170c606b39bf54417e777f5352668", null ],
+    [ "$callbacks", "dd/d3e/class_x_f_1_1_api_1_1_result_1_1_entity_result.html#a151f6e603ac02a25364ad54bee36ab2a", null ],
+    [ "$entity", "dd/d3e/class_x_f_1_1_api_1_1_result_1_1_entity_result.html#a74ed34e6d7bc9f3f8c4fb58a12247ee2", null ],
+    [ "$extra", "dd/d3e/class_x_f_1_1_api_1_1_result_1_1_entity_result.html#a6bcaf0e2f3a66b7da57696c4e02eac7d", null ],
+    [ "$includeColumns", "dd/d3e/class_x_f_1_1_api_1_1_result_1_1_entity_result.html#a554b1143f8fb39a726bd3e0d67f31c95", null ],
+    [ "$includeGetters", "dd/d3e/class_x_f_1_1_api_1_1_result_1_1_entity_result.html#ab820aef977b093803fa1e3c3a90eebe7", null ],
+    [ "$includeRelations", "dd/d3e/class_x_f_1_1_api_1_1_result_1_1_entity_result.html#aa71940e0ceeba9b1dc0989be7550cc23", null ],
+    [ "$skipColumns", "dd/d3e/class_x_f_1_1_api_1_1_result_1_1_entity_result.html#af36854b98a8eda4cd99e2ac8d287574f", null ],
+    [ "$skipRelations", "dd/d3e/class_x_f_1_1_api_1_1_result_1_1_entity_result.html#a1f8db329eb3f3b95779d6735b636dd0c", null ]
+];

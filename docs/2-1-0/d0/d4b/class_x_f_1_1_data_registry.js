@@ -1,0 +1,25 @@
+var class_x_f_1_1_data_registry =
+[
+    [ "__construct", "d0/d4b/class_x_f_1_1_data_registry.html#a45788f4c28f9cb5944267bc3ac82e27e", null ],
+    [ "delete", "d0/d4b/class_x_f_1_1_data_registry.html#a46479e9972dc8d10e3e741a7dbf12404", null ],
+    [ "exists", "d0/d4b/class_x_f_1_1_data_registry.html#ace1ae5be37bf26c172cc7ea4e1a65e26", null ],
+    [ "get", "d0/d4b/class_x_f_1_1_data_registry.html#a77efc704b1f3b6db1777f7924d83fbc9", null ],
+    [ "getCacheId", "d0/d4b/class_x_f_1_1_data_registry.html#a38d8a5b7353f2e51054630a7fc3e238c", null ],
+    [ "getCacheIdPrefix", "d0/d4b/class_x_f_1_1_data_registry.html#afcf0a6dabbce6306b1c06504845aef98", null ],
+    [ "getCacheLifeTime", "d0/d4b/class_x_f_1_1_data_registry.html#a06cf296f14b4a023d8345991d812c928", null ],
+    [ "offsetExists", "d0/d4b/class_x_f_1_1_data_registry.html#a72b9545b16ea105298bb0d2109bd2fbe", null ],
+    [ "offsetGet", "d0/d4b/class_x_f_1_1_data_registry.html#a6e8e2b3128ee9bd6be930cb296c02ac7", null ],
+    [ "offsetSet", "d0/d4b/class_x_f_1_1_data_registry.html#a3199adfa66a63d34fb355f3ccf39bf0a", null ],
+    [ "offsetUnset", "d0/d4b/class_x_f_1_1_data_registry.html#a1d11d3dade07ef846d01a397abfaf0d9", null ],
+    [ "readFromCache", "d0/d4b/class_x_f_1_1_data_registry.html#ae8e0136743849ae9e39356288fe69d7f", null ],
+    [ "readFromDb", "d0/d4b/class_x_f_1_1_data_registry.html#ad6fe3f9649767ffa07347a2d3062d6a3", null ],
+    [ "set", "d0/d4b/class_x_f_1_1_data_registry.html#aab787bd83f84f4215dceb35f7c305eee", null ],
+    [ "setCacheIdPrefix", "d0/d4b/class_x_f_1_1_data_registry.html#a5d8159433c95a7b28ed007d5b0204761", null ],
+    [ "setCacheLifeTime", "d0/d4b/class_x_f_1_1_data_registry.html#abffc38cdc0c839a57fda190a67331de5", null ],
+    [ "setInCache", "d0/d4b/class_x_f_1_1_data_registry.html#a2d9588c3be596a2230aa745756b4f00c", null ],
+    [ "$cache", "d0/d4b/class_x_f_1_1_data_registry.html#ac2dc76d756ec398393d4b1d23659276c", null ],
+    [ "$cacheIdPrefix", "d0/d4b/class_x_f_1_1_data_registry.html#a3f4ee14eb79fbb3189d7a7eeeac3efbe", null ],
+    [ "$cacheLifeTime", "d0/d4b/class_x_f_1_1_data_registry.html#aee09fcc3cf1bcd4048f7bf247336c875", null ],
+    [ "$db", "d0/d4b/class_x_f_1_1_data_registry.html#a1fa3127fc82f96b1436d871ef02be319", null ],
+    [ "$localData", "d0/d4b/class_x_f_1_1_data_registry.html#a3e38dcb04e5ebed4d73050f147aeb14d", null ]
+];

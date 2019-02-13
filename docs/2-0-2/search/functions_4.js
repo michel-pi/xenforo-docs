@@ -1,0 +1,20 @@
+var searchData=
+[
+  ['data',['data',['../d1/df7/class_x_f_1_1_app.html#aa7c1b8cdb62547c3dfba91d7a5c0900a',1,'XF\App\data()'],['../da/dd8/class_x_f_1_1_mvc_1_1_controller.html#aa7c1b8cdb62547c3dfba91d7a5c0900a',1,'XF\Mvc\Controller\data()']]],
+  ['db',['db',['../d5/d31/class_x_f_1_1_add_on_1_1_abstract_setup.html#abf2dfcff06cad1e6c249ddc4df4d0866',1,'XF\AddOn\AbstractSetup\db()'],['../d1/df7/class_x_f_1_1_app.html#abf2dfcff06cad1e6c249ddc4df4d0866',1,'XF\App\db()'],['../dc/db6/class_x_f_1_1_install_1_1_upgrade_1_1_abstract_upgrade.html#abf2dfcff06cad1e6c249ddc4df4d0866',1,'XF\Install\Upgrade\AbstractUpgrade\db()'],['../dc/d0a/class_x_f_1_1_mvc_1_1_entity_1_1_entity.html#abf2dfcff06cad1e6c249ddc4df4d0866',1,'XF\Mvc\Entity\Entity\db()'],['../df/d65/class_x_f_1_1_mvc_1_1_entity_1_1_repository.html#abf2dfcff06cad1e6c249ddc4df4d0866',1,'XF\Mvc\Entity\Repository\db()'],['../db/daf/class_x_f_1_1_search_1_1_source_1_1_my_sql_ft.html#abf2dfcff06cad1e6c249ddc4df4d0866',1,'XF\Search\Source\MySqlFt\db()'],['../d4/d03/class_x_f_1_1_service_1_1_abstract_service.html#abf2dfcff06cad1e6c249ddc4df4d0866',1,'XF\Service\AbstractService\db()'],['../d5/d34/class_x_f_1_1_stats_1_1_abstract_handler.html#abf2dfcff06cad1e6c249ddc4df4d0866',1,'XF\Stats\AbstractHandler\db()'],['../de/d05/class_x_f_1_1_widget_1_1_abstract_widget.html#abf2dfcff06cad1e6c249ddc4df4d0866',1,'XF\Widget\AbstractWidget\db()'],['../da/d24/class_x_f.html#a163f43b6bcefd08fd6061fe81f39ce2c',1,'XF\db()']]],
+  ['debugger',['debugger',['../d1/df7/class_x_f_1_1_app.html#ad195f6b508fdc074c270dd4533e9489e',1,'XF::App']]],
+  ['decodeentities',['decodeEntities',['../d0/d0e/class_x_f_1_1_html_1_1_parser.html#af4ac6d40eb738a27292ea61523fa4498',1,'XF::Html::Parser']]],
+  ['delete',['delete',['../d5/d3a/class_x_f_1_1_legacy_1_1_data_writer.html#a13bdffdd926f26b825ea57066334ff01',1,'XF::Legacy::DataWriter']]],
+  ['deleteentity',['deleteEntity',['../dd/d5b/class_x_f_1_1_add_on_1_1_data_type_1_1_template.html#aaea31da192859c51fa4b096773c250ff',1,'XF::AddOn::DataType::Template']]],
+  ['deleteexpiredbans',['deleteExpiredBans',['../d2/dda/class_x_f_1_1_cron_1_1_ban.html#aa3fc29ee303c1d84f9af2f7992954bd8',1,'XF::Cron::Ban']]],
+  ['deletemasterphrase',['deleteMasterPhrase',['../d8/dab/class_x_f_1_1_legacy_1_1_model_1_1_phrase.html#a90bf50df88ceea380a5086596ce811b9',1,'XF::Legacy::Model::Phrase']]],
+  ['deletemasterphrases',['deleteMasterPhrases',['../d8/dab/class_x_f_1_1_legacy_1_1_model_1_1_phrase.html#a57f6f1821f2eb0e7fbb53b57ffca110a',1,'XF::Legacy::Model::Phrase']]],
+  ['designeroutput',['designerOutput',['../d1/df7/class_x_f_1_1_app.html#a199752c96ed600ec456242f84b91f56b',1,'XF::App']]],
+  ['developmentjsresponse',['developmentJsResponse',['../d1/df7/class_x_f_1_1_app.html#a8fcfa931a55d68aade56b72263302800',1,'XF::App']]],
+  ['developmentoutput',['developmentOutput',['../d1/df7/class_x_f_1_1_app.html#a03701e0e06d7d8838fd0bd0bc2cfd574',1,'XF::App']]],
+  ['discourage',['discourage',['../d1/da8/class_x_f_1_1_pub_1_1_controller_1_1_abstract_controller.html#aa817a06b8a6fdbddeb5788282175a45b',1,'XF::Pub::Controller::AbstractController']]],
+  ['dispatcher',['dispatcher',['../d1/df7/class_x_f_1_1_app.html#ad38f80b9689cf93c725f8fca30b80a7f',1,'XF::App']]],
+  ['dofetchmultiple',['doFetchMultiple',['../d7/d9c/class_x_f_1_1_cache_1_1_memcached_cache.html#a70563a2cd5a0dde5cca3e1755d6a0feb',1,'XF::Cache::MemcachedCache']]],
+  ['doparse',['doParse',['../d7/d77/class_x_f_1_1_template_1_1_compiler_1_1_parser.html#af8c096191b13b43b8aa17e6e9dc55bf9',1,'XF::Template::Compiler::Parser']]],
+  ['droptable',['dropTable',['../d9/d34/class_x_f_1_1_db_1_1_schema_manager.html#a83ebeae8ccc585663a38c2222ccb2fb5',1,'XF::Db::SchemaManager']]]
+];
